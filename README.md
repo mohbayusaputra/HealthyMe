@@ -63,6 +63,3 @@ app/src/main/java/com/example/healthyme/
 
 > ⚠️ File `google-services.json` dan `local.properties` berisi data sensitif sehingga **tidak** disertakan di repository ini.
 
-## 👤 Author
-
-**Bayu Saputra** – [@mohbayusaputra](https://github.com/mohbayusaputra)
