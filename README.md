@@ -2,6 +2,8 @@
 
 **HealthyMe** adalah aplikasi Android untuk membantu pengguna menjalani pola makan yang lebih sehat. Aplikasi ini menyediakan informasi nilai gizi makanan, kalkulator BMR, analisis nilai makanan berbasis Machine Learning (K-Means / ONNX), serta berita seputar makanan sehat.
 
+> 📌 **Catatan Akademik:** Proyek ini dibuat untuk memenuhi tugas **Ujian Akhir Semester (UAS)** mata kuliah **Machine Learning** dan **Pemrograman Mobile**.
+
 ## ✨ Fitur
 
 - **Welcome & Splash Screen** – onboarding untuk pengguna baru.
